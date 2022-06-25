@@ -1,1 +1,1 @@
-# thegridgame.github.io
+# thegridgame
